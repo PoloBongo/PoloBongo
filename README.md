@@ -1,6 +1,7 @@
+<!-- REPO_COUNT_START -->
+![Total Repositories](https://img.shields.io/badge/Total_Repos-loading-blue?style=for-the-badge&logo=github)
+<!-- REPO_COUNT_END -->
 ## [Mon Portfolio](https://www.arthur-portfolio.dev/)
-
-
 
 <!--
 **PoloBongo/PoloBongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
